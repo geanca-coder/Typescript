@@ -1,1 +1,2 @@
-# Typescript
+# Typescript course examples
+
